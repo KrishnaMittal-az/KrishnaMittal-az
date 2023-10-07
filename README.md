@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Krishna Mittal</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
+<img align = "right" width = "400" src = "https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnamittal-az&label=Profile%20views&color=0e75b6&style=flat" alt="krishnamittal-az" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnamittal-az" alt="krishnamittal-az" /></a> </p>
